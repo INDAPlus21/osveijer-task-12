@@ -1,1 +1,3 @@
-# osveijer-task-12
+# osveijer Simulated Autonomus Race Car
+
+To run download car.py and run in python idle. Make sure pygame is installed. If pygame is not installed it can, on Windows, be installed using ´py -m pip install -U pygame --user´ in the terminal.
